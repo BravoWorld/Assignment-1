@@ -10,5 +10,4 @@ int main()
 	 	printf("%s",returnData);
 	}
 	pclose(fp);
-	system("pause");
 }
