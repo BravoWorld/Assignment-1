@@ -1,2 +1,3 @@
-# Assignment-1
-To Display the IP address on the machine
+# Tasks
+
+This is c programming that using the machine to Display 
